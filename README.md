@@ -1,6 +1,7 @@
 # Airplane-Crash-Data-Analysis-Dashboard
 **Objective:**
 Developed a comprehensive Power BI dashboard to analyze historical airplane crash data, identifying key trends and deriving actionable insights to improve aviation safety.
+
 **Data Collection & Preparation:**
 Collected and cleaned data containing details of airplane crashes, including date, location, operator, aircraft type, and fatalities.
 Ensured data consistency and corrected data types for accurate analysis.
